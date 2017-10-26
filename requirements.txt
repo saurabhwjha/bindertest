@@ -1,0 +1,6 @@
+matplotlib
+astropy
+emcee
+corner
+datetime
+numpy
